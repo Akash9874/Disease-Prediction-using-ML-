@@ -53,21 +53,16 @@ View the predicted diseases on the results page.
 Screenshot
 
 Below is a screenshot of the web application:
-![Screenshot 2025-01-01 214429](https://github.com/user-attachments/assets/4f40f303-43a4-46eb-98c2-e7e60b6f24bf)
 
-![Screenshot 2025-01-01 214436](https://github.com/user-attachments/assets/fbe6d8b3-7e16-4d56-bb1e-e2da3769131f)
+![Screenshot 2025-01-01 214429](https://github.com/user-attachments/assets/bc67b521-c239-4e3f-a0db-d2f1c6dbf4cd)
 
+![Screenshot 2025-01-01 214436](https://github.com/user-attachments/assets/453a55b0-0dc3-49b2-b6d1-ab4efe163aba)
 
 
 Folder Structure
 
-├── app.py                 # Main Flask application
-├── templates/             # HTML files
-├── static/                # CSS, JavaScript, and images
-├── models/                # Machine learning models
-├── uploads/               # Uploaded files
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+![image](https://github.com/user-attachments/assets/2d505cbf-bddb-4423-ae79-ea7e7472ab3c)
+
 
 Dataset
 
